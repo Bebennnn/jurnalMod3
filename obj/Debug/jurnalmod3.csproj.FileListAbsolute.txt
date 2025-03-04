@@ -1,0 +1,10 @@
+E:\jurnalmod3\bin\Debug\jurnalmod3.exe.config
+E:\jurnalmod3\bin\Debug\jurnalmod3.exe
+E:\jurnalmod3\bin\Debug\jurnalmod3.pdb
+E:\jurnalmod3\obj\Debug\jurnalmod3.csproj.AssemblyReference.cache
+E:\jurnalmod3\obj\Debug\jurnalmod3.Form1.resources
+E:\jurnalmod3\obj\Debug\jurnalmod3.Properties.Resources.resources
+E:\jurnalmod3\obj\Debug\jurnalmod3.csproj.GenerateResource.cache
+E:\jurnalmod3\obj\Debug\jurnalmod3.csproj.CoreCompileInputs.cache
+E:\jurnalmod3\obj\Debug\jurnalmod3.exe
+E:\jurnalmod3\obj\Debug\jurnalmod3.pdb
